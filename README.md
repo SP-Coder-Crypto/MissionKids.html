@@ -1,4 +1,4 @@
-And choose it OK<!DOCTYPE html> 
+<!DOCTYPE html> 
 
 <html lang="en"> 
 
