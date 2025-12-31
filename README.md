@@ -166,5 +166,4 @@
 
   <header> 
 
-    <h1>Mission Commu|Privacy Policy    |Terms of Service </p>
-</footer>
+    <h1>Mission Commu
