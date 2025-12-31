@@ -1,168 +1,247 @@
 <!DOCTYPE html> 
 
+</index.html>    
+
 <html lang="en"> 
 
- 
+    <head> 
 
-<head> 
+  <meta charset="UTF-8"> 
 
-  <meta charset="UTF-8"> 
+  <title>Mission Web 2</title>       
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 
-  <title>Mission Community Youth Center Inc.</title> 
+     <style> 
 
- 
+     .Title { 
 
-  <style> 
+        font-family: arial; 
 
-    body { 
+        font-weight: bold; 
 
-      background-color: rgb(182, 175, 164); 
+        font-size: 40px; 
 
-      color: rgb(81, 64, 3); 
+        color: rgb(3, 3, 69); 
 
-      font-family: Arial, Helvetica, sans-serif; 
+        margin-left: 200px; 
 
-      margin-left: 100px; 
+        margin-right:50px; 
 
-      margin-right: 100px; 
+        text-align: center;> 
 
-      padding: 0; 
+     }   
 
-    } 
+} 
 
- 
+        body 
 
-    header { 
+         
 
-      text-align: center; 
+        margin-left: 200px; 
 
-      padding: 20px; 
+            margin-right:200px; 
 
-    } 
+            padding: 40px; 
 
- 
+            font-size: 26px;> 
 
-    header h1 { 
+        } 
 
-      font-size: 40px; 
+        body> 
 
-      color: rgb(96, 68, 10); 
+    style>   
 
-      margin: 0; 
+        <style> 
 
-    } 
+        <p> 
 
- 
+            <img src="Screenshot_30-11-2025_171438_sunyesc-my.sharepoint.com.jpeg" width="800" height="400" alt="Mission" style="display:block; margin:0 auto; padding:10px;"> 
 
-    nav { 
-
-      background-color: #8e5311; 
-
-      overflow: hidden; 
-
-      position: sticky; 
-
-      top: 0; 
-
-      z-index: 1000; 
-
-    } 
+             
 
  
 
-    nav a { 
+        </p> 
 
-      float: left; 
+        <p> 
 
-      display: block; 
+            </image>style> 
 
-      color: white; 
+            { 
 
-      text-align: center; 
+                font-family: arial; 
 
-      padding: 14px 20px; 
+                font-weight: bold; 
 
-      text-decoration: none; 
+                font-size: 40px; 
 
-      font-size: 18px; 
+                color: rgb(3, 3, 69); 
 
-    } 
+                margin-left: 200px; 
 
- 
+                margin-right:100px; 
 
-    nav a:hover { 
+                padding: 10px; 
 
-      background-color: #d08f0e; 
+                text-align: center; 
 
-    } 
+            } 
 
- 
+            </image></style> 
 
-    .main { 
+        </p> 
 
-      font-weight: bold; 
+        <h1>     
 
-      font-size: 22px; 
-
-      padding: 40px; 
-
-      margin-inline-start: 5%; 
-
-      margin-inline-end: 5%; 
-
-      text-align: justify; 
-
-    } 
+             
 
  
 
-    .main img { 
+        </p> <title><Mission-Community-Youth-Center-Inc.></h1> 
 
-      width: 100%; 
+        <style> 
 
-      max-width: 500px; 
+             {  
 
-      height: auto; 
+            font-family: arial; 
 
-      display: block; 
+            font-weight: bold; 
 
-      margin: 40px auto; 
+            font-size: 40px; 
 
-      border-radius: 12px; 
+            margin-left: 200px; 
 
-    } 
+            margin-right:100px; 
 
- 
+            color: rgb(3, 3, 69); 
 
-    footer { 
+            text-align: center; 
 
-      background-color: #7e5a0e; 
+            padding: 20px;> 
 
-      color: white; 
+        } 
 
-      text-align: center; 
+        <viewport> 
 
-      padding: 12px; 
+        <br> 
 
-      margin-top: 40px; 
+            <style> 
 
-      position: relative; 
+            { 
 
-    } 
+                font-family: arial; 
 
-  </style> 
+                font-weight: bold; 
+
+                font-size: 40px; 
+
+                color: rgb(3, 3, 69); 
+
+                margin-left: 200px; 
+
+                margin-right:100px; 
+
+                padding: 10px; 
+
+                text-align: center; 
+
+            } 
+
+        <br> 
+
+.gap 
+
+ { 
+
+    10px; 
+
+    padding: 10px; 
+
+} 
+
+        </br> 
+
+        </h1>  
+
+        </style> 
+
+    </title> 
+
+    <style> 
+
+        p { 
+
+            font-family: arial; 
+
+            font-weight: bold; 
+
+            font-size: 40px; 
+
+            color: rgb(3, 3, 69); 
+
+            margin-left: 00px; 
+
+            margin-right: 100px; 
+
+            padding: 10px; 
+
+            text-align: justify; 
+
+        }        
+
+        p   
+
+        <style> 
+
+    </style> 
 
 </head> 
 
+    <body> 
+
+<h1></title> 
+
+    <style></style> Mission Community Youth Center Inc. 
+
+ <h1></title> 
+
+    <style></style>  
+
+    <img src="Screenshot_30-11-2025_171438_sunyesc-my.sharepoint.com.jpeg" width="800" height="400" alt="Mission" style="display:block; margin:0 auto; padding:10px;">  
+
+   
+
+    <p> 
+
+        The Community Youth Center would like to welcome you to an all-inclusive caring, fun, learning facility where we have experienced professionals ready to take on developmental challenges as we strive to make a difference caring for your loved ones. We have included a before and after-school program which allows provisions  
+
+        for pickups and drop offs, to and from school. We are the only licensed  
+
+        community center in town that offers quality care 24 hours 6 days a week.  
+
+        Our days of operation are Monday 5:30 a.m. through Saturday 11:30pm closed on Sunday. 
+
+</p> 
+
+    </body>  
+
+</html> 
+
  
 
-<body> 
+<br>  
+
+ 
+ 
+
+<br> 
 
  
 
-  <!-- HEADER --> 
+         
+
+    </p> 
 
   <header> 
 
