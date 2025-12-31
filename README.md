@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+And choose it OK<!DOCTYPE html> 
 
 <html lang="en"> 
 
@@ -356,5 +356,3 @@
 <footer>
   <p>&copy;2026 Mission Community Youth Center Inc.    |Privacy Policy    |Terms of Service </p>
 </footer>
-
-</html>
